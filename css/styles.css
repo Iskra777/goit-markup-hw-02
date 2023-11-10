@@ -1,0 +1,118 @@
+.list{
+    list-style-type: none;
+}
+.link{
+    text-decoration: none;
+}
+
+button{
+    cursor: pointer;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background: #FFF;
+}
+.logo{
+font-family: 'Raleway', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+color: var(--NAVY-BLUE, rgb(46, 47, 66));
+}
+
+.menu-link{
+    color: var(--NAVY-BLUE, #2E2F42);
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.menu-link:hover,
+.menu-link:focus{
+    color: #404BBF;
+}
+
+.headache{
+    background: var(--NAVY-BLUE, #2E2F42);
+}
+
+.head-title{
+    color: var(--WHITE, #FFF);
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em
+}
+
+.text-titl{
+    color: var(--NAVY-BLUE, #2E2F42);
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.text-subtitl{
+    color: var(--SLATE, #434455);
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em
+}
+
+.team{
+    color: var(--NAVY-BLUE, #2E2F42);
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
+
+.team-name{
+    color: var(--NAVY-BLUE, #2E2F42);
+text-align: center;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.team_position{
+    color: var(--SLATE, #434455);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.portfolio{
+    color: var(--NAVY-BLUE, #2E2F42);
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
+
+.portfolio-titl{
+    color: var(--NAVY-BLUE, #2E2F42);
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.portfolio-subtitl{
+    color: var(--SLATE, #434455);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
